@@ -131,5 +131,5 @@ npm start
 
 Here is a loom video showing the setup of the Discord bot and the Voiceflow project.
 
-[https://www.loom.com/share/5b96b4f52b494b64bd82a123f4f23c7f?sid=f223113f-0b80-4316-9580-6a5423ff133f](https://www.loom.com/share/5b96b4f52b494b64bd82a123f4f23c7f?sid=f223113f-0b80-4316-9580-6a5423ff133f)
+[https://www.loom.com/share/5b96b4f52b494b64bd82a123f4f23c7f](https://www.loom.com/share/5b96b4f52b494b64bd82a123f4f23c7f)
 
